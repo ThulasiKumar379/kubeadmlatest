@@ -22,3 +22,4 @@ step10:-
 kubectl get nodes
 step11:-
 use the join command in worker nodes
+finally check this
